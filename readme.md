@@ -1,4 +1,4 @@
-## Software description
+## [EN] Software description
 -Solve the problem that the screen size becomes smaller when the Mi Pro notebook wakes up after hibernation after turning on hiDPI
 -Solve the problem that the sound card is silent after the Xiaomi pro notebook sleeps and wakes up (the reason for it is not clear, but the test is effective!)
 
