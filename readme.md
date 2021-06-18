@@ -1,27 +1,27 @@
-## 软件说明
-- 解决小米pro笔记本开启hiDPI后，休眠后的唤醒，屏幕尺寸变小的问题
-- 解决小米pro笔记本休眠唤醒后，声卡无声的问题（起作用的原因尚不明确，但测试有效！）
+## Software description
+-Solve the problem that the screen size becomes smaller when the Mi Pro notebook wakes up after hibernation after turning on hiDPI
+-Solve the problem that the sound card is silent after the Xiaomi pro notebook sleeps and wakes up (the reason for it is not clear, but the test is effective!)
 
-## 版本特性
-- 仅仅支持小米pro笔记本15寸自身的屏幕<displayId=2034356672>,尚不明确小米13存屏幕是否是一样ID的设备
-- 仅仅只在HiDPI是1440x810或者1600x900时，休眠唤醒后主动设置hiDPI,其他分辨率不做任何动作
-- 比之前RDM-Z版本调低了睡眠时间，理论上体验会更好
+## Version features
+-It only supports the 15-inch screen of the Mi Pro notebook <displayId=2034356672>, it is not clear whether the Mi 13 storage screen is a device with the same ID
+-Only when HiDPI is 1440x810 or 1600x900, automatically set hiDPI after wake-up from sleep, and do nothing with other resolutions
+-Lower sleep time than the previous RDM-Z version, theoretically the experience will be better
 
-## 安装方法（install method）
-- 安装的老版本riceCrackerDaemon需要先删除，因为新版本改变了安装路径,卸载方法: 
-双击
+## Install method (install method)
+-The installed old version of riceCrackerDaemon needs to be deleted first, because the new version changes the installation path, uninstall method:
+Double click
 ```
-install双击旧版本卸载.command
-```
-
-- 安装方法
-双击
-```
-install双击自动安装.command
+install Double-click the old version to uninstall.command
 ```
 
-- 卸载方法
-双击
+- installation method
+Double click
 ```
-install双击自动卸载.command
+install Double-click to install automatically.command
+```
+
+-How to uninstall
+Double click
+```
+install Double-click to uninstall automatically.command
 ```

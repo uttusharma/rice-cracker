@@ -6,6 +6,6 @@ sudo pkill riceCrackerDaemon
 sudo rm -f /Library/LaunchAgents/org.zysuper.ricecracker.daemon.plist
 sudo rm -f /usr/bin/riceCrackerDaemon
 
-echo '卸载米果守护进程完成！'
-echo '卸载程序结束! '
-bash read -p '按任何键退出'
+echo'Uninstall Miguo daemon complete! '
+echo'The uninstaller is over!'
+bash read -p'press any key to exit'
