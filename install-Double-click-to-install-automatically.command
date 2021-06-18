@@ -13,6 +13,6 @@ sudo chown root:wheel /Library/LaunchAgents/org.zysuper.ricecracker.daemon.plist
 
 sudo launchctl load /Library/LaunchAgents/org.zysuper.ricecracker.daemon.plist
 
-echo'The installation of Migo HiScale daemon is complete! '
-echo'The installation program is over!'
-bash read -p'press any key to exit'
+echo 'The installation of Migo HiScale daemon is complete! '
+echo 'The installation program is over!'
+bash read -p 'press any key to exit'
